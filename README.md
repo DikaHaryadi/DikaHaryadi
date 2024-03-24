@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Haloooooooo 👋</h1>
-<h3 align="center">Halo! Saya bernama Muhammad Dika Haryadi, lulusan Sistem Informasi yang tertarik pada pemrograman berbasis mobile, terutama untuk Flutter.</h3>
+<h3 align="center">Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikaharyadi&label=Profile%20views&color=0e75b6&style=flat" alt="dikaharyadi" /> </p>
